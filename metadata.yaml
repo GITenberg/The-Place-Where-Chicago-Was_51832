@@ -1,10 +1,13 @@
 _repo: The-Place-Where-Chicago-Was_51832
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cowles
     gutenberg_agent_id: '48854'
     url: http://www.gutenberg.org/2009/agents/48854
+covers:
+- cover_type: archival
+  image_path: 51832-h/images/cover.jpg
 creator:
   author:
     agent_name: Harmon, Jim
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '35040'
     url: http://www.gutenberg.org/2009/agents/35040
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51832#The-Place-Where-Chicago-Was
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-22'
 gutenberg_type: Text
